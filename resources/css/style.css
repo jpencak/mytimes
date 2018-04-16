@@ -12,9 +12,9 @@ h1 {color: mediumaquamarine;
     border: 1px solid black;
 }
 
-.navigation {padding-top: 20px;
+.navigation {padding-top: 15px;
              padding-left: 850px;
-             }
+          }
 
 
 a {color: black;
@@ -28,8 +28,14 @@ a {color: black;
   }
 
 .phish {border: 1px solid black;
-
+background-image: url(https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-4/img-story-main.png);
+background-repeat: no-repeat;
+background-size: cover;
+color: white;
 }
+
+
+
 
 .content1 {border: 1px solid black;
 }
@@ -47,7 +53,6 @@ a {color: black;
 }
 
 .column.large {border: 1px solid black;
-  width: 630px;
 }
 
 .FBI {border: 1px solid black;

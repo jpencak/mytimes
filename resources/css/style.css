@@ -1,9 +1,77 @@
 .header {font-family: verdana;
          font-size: 14px;
          font-weight: bold;
-         display: inline-block;
+         display: inline-flex;
 }
 
 h1 {color: mediumaquamarine;
     font-size: 14px;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-right: 500px;
+    border: 1px solid black;
+}
+
+.navigation {padding-top: 20px;
+             padding-left: 850px;
+             }
+
+
+a {color: black;
+   font-size: 14px;
+   padding-right: 30px;
+   }
+
+.logo {display: inline-block;
+       margin-left: 40px;
+       border: 1px solid black;
+  }
+
+.phish {border: 1px solid black;
+
+}
+
+.content1 {border: 1px solid black;
+}
+
+.orca {border: 1px solid black;
+}
+
+.earth {border: 1px solid black;
+}
+
+.burger {border: 1px solid black;
+}
+
+.cameras {border: 1px solid black;
+}
+
+.column.large {border: 1px solid black;
+  width: 630px;
+}
+
+.FBI {border: 1px solid black;
+}
+
+.cats {border: 1px solid black;
+}
+
+.content2 {border: 1px solid black;
+
+}
+
+.column.medium {border: 1px solid black;
+}
+
+.main {display: inline-flex;
+       border: 1px solid black;
+       margin-left: 40px;
+       margin-top: 10px;
+
+     }
+
+.column.small {border: 1px solid black;
+}
+
+.bites {border: 1px solid black;
 }

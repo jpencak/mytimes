@@ -55,7 +55,10 @@ a {color: black;
           color: black;
 }
 
-
+.bottom {display: flex;
+         justify-content: space-around;
+         flex-direction: column;
+         }
 
 .earth {border: 1px solid black;
         background-image: url("https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-4/img-story-2.png");
@@ -95,6 +98,8 @@ a {color: black;
 .large {border: 1px solid black;
         width: 630px;
         display: flex;
+        flex-direction: column;
+
 }
 
 

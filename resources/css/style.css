@@ -1,3 +1,6 @@
+body {margin-top: 0px;}
+
+
 .header {font-family: verdana;
          font-size: 14px;
          font-weight: bold;
@@ -52,32 +55,46 @@ a {color: black;
           color: black;
 }
 
-.earth {border: 1px solid black;
-  background-image: url("https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-4/img-story-2.png");
-  font-family: Georgia;
-  font-weight: bold;
-  font-size: 30px;
-  color: white;
-  height: 300px;
-  display: flex;
-  align-items: center;}
 
+
+.earth {border: 1px solid black;
+        background-image: url("https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-4/img-story-2.png");
+        font-family: Georgia;
+        font-weight: bold;
+        color: white;
+        height: 300px;
+}
+
+.earth h2 {margin-top: 0px;
+           font-size: 30px;
+           display: flex;
+           justify-content: center;}
 
 .cameras {border: 1px solid black;
-  display: flex;
-  background-image: url("https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-4/img-story-3.png");
-  font-family: Georgia;
-  font-weight: bold;
-  font-size: 30px;
-  color: white;
-  height: 300px;}
+          display: flex;
+          background-image: url("https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-4/img-story-3.png");
+          font-family: Georgia;
+          font-weight: bold;
+          font-size: 30px;
+          color: white;
+          height: 300px;}
+
+.cameras h2 {margin-top: 0px;
+             font-size: 30px;
+             display: flex;
+             text-align: center;
+             margin-left: 70px;
+}
 
 .column {border: 1px solid black;
          margin: 20px;
-
 }
+
+
+
 .large {border: 1px solid black;
         width: 630px;
+        display: flex;
 }
 
 
@@ -89,6 +106,10 @@ a {color: black;
       font-size: 30px;
       color: white;
       height: 300px;
+  }
+
+  .cats h2 {margin-top: 0px;
+            font-size: 30px;
   }
 
 .content2 {border: 1px solid black;
@@ -103,7 +124,6 @@ a {color: black;
        border: 1px solid black;
        margin-left: 200px;
        margin-top: 80px;
-
      }
 
 .small {border: 1px solid black;

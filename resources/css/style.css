@@ -36,6 +36,8 @@ a {color: black;
         background-repeat: no-repeat;
         color: white;
         height: 300px;
+        display: flex;
+    
 }
 
 

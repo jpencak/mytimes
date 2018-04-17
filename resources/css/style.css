@@ -45,18 +45,21 @@ color: white;
 
 .earth {border: 1px solid black;
   background-image: url("https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-4/img-story-2.png");
-}
+  margin-bottom: 50px;
+  background-size: cover;}
 
 .burger {border: 1px solid black;
 }
 
 .cameras {border: 1px solid black;
-background-image: url("https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-4/img-story-3.png");
+  display: flex;
+  background-image: url("https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-4/img-story-3.png");
 }
 
 .column {border: 1px solid black;
+         margin: 50px;
 }
-.large {border: 1px solid blue;
+.large {border: 1px solid black;
 }
 .FBI {border: 1px solid black;
 }

@@ -54,9 +54,10 @@ color: white;
 background-image: url("https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-4/img-story-3.png");
 }
 
-.column.large {border: 1px solid black;
+.column {border: 1px solid black;
 }
-
+.large {border: 1px solid blue;
+}
 .FBI {border: 1px solid black;
 }
 

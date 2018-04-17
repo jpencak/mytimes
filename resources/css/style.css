@@ -56,8 +56,9 @@ a {color: black;
 }
 
 .bottom {display: flex;
+         flex-wrap: wrap;
          justify-content: space-around;
-         flex-direction: column;
+        ;
          }
 
 .earth {border: 1px solid black;

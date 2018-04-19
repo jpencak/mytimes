@@ -160,8 +160,6 @@ span {border-bottom: 1px solid black;
          margin: auto;
          font-family: verdana;
          font-size: 12px;
-
-
          margin-top: 75px;
          text-align: center;
 
@@ -173,3 +171,5 @@ span {border-bottom: 1px solid black;
         color: white;
         display: inline;
 }
+
+.navigation2 {display: inline;}

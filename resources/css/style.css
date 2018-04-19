@@ -8,7 +8,7 @@ body {margin-top: 0px;}
          position: fixed;
          background: white;
          border-bottom: 1px solid black;
-       }
+}
 
 
 h1 {color: mediumaquamarine;
@@ -30,10 +30,10 @@ a {color: black;
 .logo {display: inline-block;
        margin-left: 40px;
 
-  }
+}
 
 .section {width: 45%;
-  }
+}
 
 
 
@@ -141,7 +141,7 @@ h3 {font-family: Georgia;
 h4 {font-size: 16px;
     font-weight: bold;
     text-align: center;
-  }
+}
 
 .bites .bite {display: block;
         background-color: whitesmoke;
@@ -151,7 +151,6 @@ h4 {font-size: 16px;
         padding: 11px 20px;
         border-bottom: 1px solid black;
         margin: 0px auto;
-        
   }
 
 .footer {background-color: MediumAquamarine;
@@ -162,8 +161,8 @@ h4 {font-size: 16px;
          text-align: center;
          padding-top: 125px;
          padding-bottom: 125px;
-
 }
+
 h5 {font-family: Georgia;
     font-size: 16px;
     font-weight: bold;
@@ -181,4 +180,5 @@ h5 {font-family: Georgia;
 
 .navigation2 {font-family: verdana;
               font-size: 12px;
-              font-weight: normal;}
+              font-weight: normal;
+}
